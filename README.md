@@ -2,4 +2,4 @@
 ## 使用EP11（enterprise PKCS#11） API 导入密钥到HPCS keystore 中举例
 
 
-![](./img/导入流程图.jpg)
+![](img/导入流程图.jpg)
